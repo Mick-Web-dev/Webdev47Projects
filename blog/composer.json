@@ -4,7 +4,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Webdev47projects\\Blog\\": "src/"
+            "Webdev47projects\\Blog\\": "blog/src/"
         }
     },
     "authors": [
